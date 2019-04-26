@@ -1,0 +1,32 @@
+.input-group {
+  width: 40% !important;
+  margin: auto;
+  padding: 10px;
+}
+
+.middle-column {
+  margin-left: 25%;
+  margin-right: 25%;
+  text-align: center;
+}
+
+.input-width {
+  width: 70%;
+}
+
+.center-test {
+  position: fixed;
+  /* center the element */
+  right: 0;
+  left: 0;
+  margin-right: auto;
+  margin-left: auto;
+  /* give it dimensions */
+  min-height: 10em;
+  width: 90%;
+}
+
+.title {
+  text-align: center;
+  font-size: 30px;
+}
