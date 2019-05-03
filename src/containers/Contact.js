@@ -12,7 +12,7 @@ export default class Contact extends Component {
    
     return (
       <div className="footer">
-        <p id="title">{this.props.title}</p>
+        <p id="title"><u>{this.props.title}</u></p>
         <p id="email">{this.props.email}</p>
         <p id="address">{this.props.address}</p>
       </div>

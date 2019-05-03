@@ -14,10 +14,5 @@ app.use('/serverport', ServerPortRouter);
 
 app.listen(port, (req, res) => {
   console.log(`server listening on port: ${port}`)
-
-  // connection.query('SELECT * FROM ParticipantInfo', function (err, result) {
-  //   if (err) throw err;
-  //   console.log(result);
-  // });
 });
 

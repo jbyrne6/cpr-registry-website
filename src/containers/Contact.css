@@ -6,13 +6,10 @@
     background-color: #333333;
     color: white;
     text-align: center;
+    margin-top: 100px;
 }
 
 #title, #email, #address {
     margin: 0px;
     padding: 1px;
-}
-
-#title {
-    font-size: 5px;
 }

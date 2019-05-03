@@ -24,17 +24,17 @@ class App extends Component {
         </div>
         <div id="about" className="putBlockInMiddle">
           <Block
-            text="Lorem ipsum malesuada congue eu euismod sollicitudin orci purus turpis per cubilia dictumst sodales quis porttitor ac convallis habitant quis sit laoreet.
-
-            Vulputate nisl per sociosqu placerat id aptent purus, eget ullamcorper  feugiat ut nibh lacus pulvinar, rhoncus cubilia tempor ligula accumsan duis aenean justo tortor imperdiet nunc velit tempor." 
-            imageSrc="https://brockportchamber.org/wp-content/uploads/2017/09/happy-family.jpg" 
-            alt="Happy Family"
+            text="More than 350,000 cardiac arrests occur outside of the hospital each year.  In 2015, any-mention sudden cardiac arrest mortality in the US was 366,807. 
+            CPR, especially if administered immediately after cardiac arrest, can double or triple a person’s chance of survival. About 90 percent of people who experience 
+            an out-of-hospital cardiac arrest die. According to 2014 data, nearly 45 percent of out-of-hospital cardiac arrest victims survived when bystander CPR was administered. - cpr.heart.org" 
+            imageSrc="https://revcycleintelligence.com/images/site/article_headers/_normal/hospital%2C_green.jpg" 
+            alt="Hospital"
            />
         </div>
         <div id="" className="putBlockInMiddle">
           <Block 
             imageSrc="http://media.navigatored.com/images/940*630/shutterstock_657810997.jpg" 
-            text="User case 1"
+            text="Survivor Story"
           />
         </div>
         <div id="contact">
